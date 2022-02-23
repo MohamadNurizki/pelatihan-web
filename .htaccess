@@ -1,0 +1,4 @@
+RewriteEngine on
+
+#Alternate default index pages
+DirectoryIndex login.php index.php
